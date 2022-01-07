@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\proj1\bin\Debug\net5.0\proj1.exe
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\proj1\bin\Debug\net5.0\proj1.deps.json
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\proj1\bin\Debug\net5.0\proj1.runtimeconfig.json
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\proj1\bin\Debug\net5.0\proj1.runtimeconfig.dev.json
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\proj1\bin\Debug\net5.0\proj1.dll
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\proj1\bin\Debug\net5.0\ref\proj1.dll
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\proj1\bin\Debug\net5.0\proj1.pdb
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\proj1\obj\Debug\net5.0\proj1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\proj1\obj\Debug\net5.0\proj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\proj1\obj\Debug\net5.0\proj1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\proj1\obj\Debug\net5.0\proj1.AssemblyInfo.cs
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\proj1\obj\Debug\net5.0\proj1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\proj1\obj\Debug\net5.0\proj1.dll
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\proj1\obj\Debug\net5.0\ref\proj1.dll
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\proj1\obj\Debug\net5.0\proj1.pdb
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\proj1\obj\Debug\net5.0\proj1.genruntimeconfig.cache

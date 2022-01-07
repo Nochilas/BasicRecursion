@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\Recursion\bin\Debug\net5.0\recursion.exe
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\Recursion\bin\Debug\net5.0\recursion.deps.json
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\Recursion\bin\Debug\net5.0\recursion.runtimeconfig.json
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\Recursion\bin\Debug\net5.0\recursion.runtimeconfig.dev.json
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\Recursion\bin\Debug\net5.0\recursion.dll
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\Recursion\bin\Debug\net5.0\ref\recursion.dll
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\Recursion\bin\Debug\net5.0\recursion.pdb
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\Recursion\obj\Debug\net5.0\recursion.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\Recursion\obj\Debug\net5.0\recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\Recursion\obj\Debug\net5.0\recursion.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\Recursion\obj\Debug\net5.0\recursion.AssemblyInfo.cs
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\Recursion\obj\Debug\net5.0\recursion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\Recursion\obj\Debug\net5.0\recursion.dll
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\Recursion\obj\Debug\net5.0\ref\recursion.dll
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\Recursion\obj\Debug\net5.0\recursion.pdb
+C:\Users\User\Desktop\SUCCO\SIA\informatica\progetti\C# - VSCode\Recursion\obj\Debug\net5.0\recursion.genruntimeconfig.cache
